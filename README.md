@@ -1,4 +1,4 @@
-# Javascript Cheats for https://miniroyale.io/
+# miniroyale.io - Javascript Cheats
 Updated on 2022-01-25
 
 - Line ESP
