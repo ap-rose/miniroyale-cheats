@@ -1,4 +1,4 @@
-const onMovementUpdateAnimation = a0_0xa13894.prototype.updateAnimation;
+const onMovementUpdateAnimation = a0_0x46d546.prototype.updateAnimation;
 const HEAD_OFFSET = 0.4;
 const RENDER_LINE_STEP = 0.001;
 const RENDER_LINE_WIDTH = 0.03;
@@ -14,7 +14,7 @@ function renderLine(application, from, to, color) {
   }
 }
 
-a0_0xa13894.prototype.updateAnimation = function () {
+a0_0x46d546.prototype.updateAnimation = function () {
   onMovementUpdateAnimation.apply(this, arguments);
 
   const position = this.entity.getPosition().clone();
